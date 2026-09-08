@@ -1,0 +1,22 @@
+:root {
+  --fg-pink: #D95885;
+  --fg-pink-light: #FF8EC4;
+  --fg-black: #0A0A0A;
+  --fg-white: #FFFFFF;
+  --fg-surface: #F7F4F5;
+  --fg-border: #EAE7E8;
+  --fg-text-muted: #6F6A6C;
+
+  --fg-radius-xs: 2px;
+  --fg-radius-sm: 4px;
+
+  --fg-space-1: 4px;
+  --fg-space-2: 8px;
+  --fg-space-3: 16px;
+  --fg-space-4: 24px;
+  --fg-space-5: 32px;
+  --fg-space-6: 48px;
+  --fg-space-7: 64px;
+
+  --fg-focus: 0 0 0 3px rgba(217, 88, 133, .24);
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect width="800" height="800" fill="#FFFFFF"/>
+<defs><g id="b"><path d="M 137 26 L 125 44 L 150 75 L 160 69 L 183 102 L 167 42 L 154 54 Z" fill="#D95885"/></g></defs>
+<g opacity="0.08">
+  <use href="#b" transform="translate(-85,-10) scale(.32)"/>
+  <use href="#b" transform="translate(180,100) scale(.32)"/>
+  <use href="#b" transform="translate(445,210) scale(.32)"/>
+  <use href="#b" transform="translate(50,400) scale(.32)"/>
+  <use href="#b" transform="translate(315,510) scale(.32)"/>
+  <use href="#b" transform="translate(580,620) scale(.32)"/>
+</g></svg>
